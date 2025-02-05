@@ -1,2 +1,2 @@
-# adivinha-o-c
+# Jogo de adivinhação
 Lingagem C
