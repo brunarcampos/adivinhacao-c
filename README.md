@@ -1,7 +1,9 @@
-# Jogo de adivinhação
-Lingagem C
+# Jogo de adivinhaÃ§Ã£o
 
-gcc programa.c -o programa.exe
+Linguagem C
+
+gcc adivinhacao.c -o adivinhacao.exe
+./adivinhacao.exe
 
 
 #include <locale.h>
